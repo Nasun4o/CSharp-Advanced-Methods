@@ -1,0 +1,6 @@
+C:\Users\PC-PC\documents\visual studio 2015\Projects\HomeWorkMethods\LargerThanNeighbours\bin\Debug\LargerThanNeighbours.exe.config
+C:\Users\PC-PC\documents\visual studio 2015\Projects\HomeWorkMethods\LargerThanNeighbours\bin\Debug\LargerThanNeighbours.exe
+C:\Users\PC-PC\documents\visual studio 2015\Projects\HomeWorkMethods\LargerThanNeighbours\bin\Debug\LargerThanNeighbours.pdb
+C:\Users\PC-PC\documents\visual studio 2015\Projects\HomeWorkMethods\LargerThanNeighbours\obj\Debug\LargerThanNeighbours.csprojResolveAssemblyReference.cache
+C:\Users\PC-PC\documents\visual studio 2015\Projects\HomeWorkMethods\LargerThanNeighbours\obj\Debug\LargerThanNeighbours.exe
+C:\Users\PC-PC\documents\visual studio 2015\Projects\HomeWorkMethods\LargerThanNeighbours\obj\Debug\LargerThanNeighbours.pdb

@@ -1,0 +1,6 @@
+C:\Users\PC-PC\documents\visual studio 2015\Projects\HomeWorkMethods\NumberCalculation\bin\Debug\NumberCalculation.exe.config
+C:\Users\PC-PC\documents\visual studio 2015\Projects\HomeWorkMethods\NumberCalculation\bin\Debug\NumberCalculation.exe
+C:\Users\PC-PC\documents\visual studio 2015\Projects\HomeWorkMethods\NumberCalculation\bin\Debug\NumberCalculation.pdb
+C:\Users\PC-PC\documents\visual studio 2015\Projects\HomeWorkMethods\NumberCalculation\obj\Debug\NumberCalculation.csprojResolveAssemblyReference.cache
+C:\Users\PC-PC\documents\visual studio 2015\Projects\HomeWorkMethods\NumberCalculation\obj\Debug\NumberCalculation.exe
+C:\Users\PC-PC\documents\visual studio 2015\Projects\HomeWorkMethods\NumberCalculation\obj\Debug\NumberCalculation.pdb

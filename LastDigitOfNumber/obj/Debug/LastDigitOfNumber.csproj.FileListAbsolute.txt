@@ -1,0 +1,5 @@
+c:\users\pc-pc\documents\visual studio 2015\Projects\HomeWorkMethods\LastDigitOfNumber\bin\Debug\LastDigitOfNumber.exe.config
+c:\users\pc-pc\documents\visual studio 2015\Projects\HomeWorkMethods\LastDigitOfNumber\bin\Debug\LastDigitOfNumber.exe
+c:\users\pc-pc\documents\visual studio 2015\Projects\HomeWorkMethods\LastDigitOfNumber\bin\Debug\LastDigitOfNumber.pdb
+c:\users\pc-pc\documents\visual studio 2015\Projects\HomeWorkMethods\LastDigitOfNumber\obj\Debug\LastDigitOfNumber.exe
+c:\users\pc-pc\documents\visual studio 2015\Projects\HomeWorkMethods\LastDigitOfNumber\obj\Debug\LastDigitOfNumber.pdb

@@ -1,0 +1,6 @@
+c:\users\pc-pc\documents\visual studio 2015\Projects\HomeWorkMethods\BiggerNumber\bin\Debug\BiggerNumber.exe.config
+c:\users\pc-pc\documents\visual studio 2015\Projects\HomeWorkMethods\BiggerNumber\bin\Debug\BiggerNumber.exe
+c:\users\pc-pc\documents\visual studio 2015\Projects\HomeWorkMethods\BiggerNumber\bin\Debug\BiggerNumber.pdb
+c:\users\pc-pc\documents\visual studio 2015\Projects\HomeWorkMethods\BiggerNumber\obj\Debug\BiggerNumber.csprojResolveAssemblyReference.cache
+c:\users\pc-pc\documents\visual studio 2015\Projects\HomeWorkMethods\BiggerNumber\obj\Debug\BiggerNumber.exe
+c:\users\pc-pc\documents\visual studio 2015\Projects\HomeWorkMethods\BiggerNumber\obj\Debug\BiggerNumber.pdb
